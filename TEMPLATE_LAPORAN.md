@@ -1,7 +1,7 @@
 # Final Project Oprec PENSHIP - <Nama Lengkap> (<NRP>)
 
 ## Identitas
-- Nama: <Nafi Al Bari Rahmatullah>
+- Nama: < Nafi Al Bari Rahmatullah >
 - NRP: <4226600099>
 - Program studi: <Sistem pembangkit energi>
 
