@@ -15,8 +15,8 @@
 - Fitur AI labeling Roboflow yang digunakan (apabila ada) dan cara perapiannya: ...
 
 ## Training
-- Lingkungan training: <laptop Google Colab>
-- Model: <yolov8n>
+- Lingkungan training: < laptop Google Colab >
+- Model: < yolov8n >
 - Grafik: lihat folder grafik/
 
 ## Pengembangan Kode
