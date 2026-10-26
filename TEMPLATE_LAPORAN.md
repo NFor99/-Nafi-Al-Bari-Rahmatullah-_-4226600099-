@@ -1,28 +1,30 @@
 # Final Project Oprec PENSHIP - <Nama Lengkap> (<NRP>)
 
 ## Identitas
-- Nama: <Nama Lengkap>
-- NRP: <NRP>
-- Program studi: <Program studi>
+- Nama: <Nafi Al Bari Rahmatullah>
+- NRP: <4226600099>
+- Program studi: <Sistem pembangkit energi>
 
 ## Project Roboflow
-- Project ID Roboflow: <workspace/project>, version <nomor>
+- Project ID Roboflow: <tugass-workspace-omea8/jam-mepet-penship>, version <4>
 - Link Roboflow Universe: https://universe.roboflow.com/<workspace>/<project>
 
 ## Dataset
-- Jumlah foto asli: bottle ..., laptop ..., pencil ...
+- Jumlah foto asli: bottle 19 , laptop 13, pencil 6
 - Metode pengambilan foto: <variasi jarak, sudut, cahaya, dan latar>
 - Fitur AI labeling Roboflow yang digunakan (apabila ada) dan cara perapiannya: ...
 
 ## Training
-- Lingkungan training: <laptop (sebutkan GPU) / Google Colab>
-- Model: <yolov8n / yolov8s>
+- Lingkungan training: <laptop Google Colab>
+- Model: <yolov8n>
 - Grafik: lihat folder grafik/
 
 ## Pengembangan Kode
 Daftar perubahan terhadap kode dasar, beserta alasan dan pengaruhnya terhadap hasil:
-1. ...
-2. ...
+1. bagian 6A = Augmentasi, hyperparameter,skenario
+2. bagian 6B = audit dataset
+3. bagian 6C = training dan evaluasi
+4. bagian 6D = hasil
 
 ## Hasil Eksperimen
 | No | Skenario | Epochs | Batch | Optimizer | mAP50 | mAP50-95 | Keterangan |
