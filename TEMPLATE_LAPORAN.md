@@ -3,7 +3,7 @@
 ## Identitas
 - Nama: < Nafi Al Bari Rahmatullah >
 - NRP: <4226600099>
-- Program studi: <Sistem pembangkit energi>
+- Program studi: < Sistem pembangkit energi >
 
 ## Project Roboflow
 - Project ID Roboflow: <tugass-workspace-omea8/jam-mepet-penship>, version <4>
